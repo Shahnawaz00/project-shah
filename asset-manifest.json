@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/project-shah/static/css/main.ca3e1451.css",
-    "main.js": "/react-gh-pages/project-shah/static/js/main.b830377b.js",
-    "static/js/787.704dbd1a.chunk.js": "/react-gh-pages/project-shah/static/js/787.704dbd1a.chunk.js",
-    "static/media/digestive.svg": "/react-gh-pages/project-shah/static/media/digestive.6640b4c374cdabfe194d0502485013cf.svg",
-    "index.html": "/react-gh-pages/project-shah/index.html",
-    "main.ca3e1451.css.map": "/react-gh-pages/project-shah/static/css/main.ca3e1451.css.map",
-    "main.b830377b.js.map": "/react-gh-pages/project-shah/static/js/main.b830377b.js.map",
-    "787.704dbd1a.chunk.js.map": "/react-gh-pages/project-shah/static/js/787.704dbd1a.chunk.js.map"
+    "main.css": "/project-shah/static/css/main.ca3e1451.css",
+    "main.js": "/project-shah/static/js/main.a2d2526c.js",
+    "static/js/787.704dbd1a.chunk.js": "/project-shah/static/js/787.704dbd1a.chunk.js",
+    "static/media/digestive.svg": "/project-shah/static/media/digestive.6640b4c374cdabfe194d0502485013cf.svg",
+    "index.html": "/project-shah/index.html",
+    "main.ca3e1451.css.map": "/project-shah/static/css/main.ca3e1451.css.map",
+    "main.a2d2526c.js.map": "/project-shah/static/js/main.a2d2526c.js.map",
+    "787.704dbd1a.chunk.js.map": "/project-shah/static/js/787.704dbd1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca3e1451.css",
-    "static/js/main.b830377b.js"
+    "static/js/main.a2d2526c.js"
   ]
 }
