@@ -1,23 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import Phase1 from './components/phase1';
+import Phase2 from './components/phase2';
+import Phase3 from './components/phase3';
+import Phase4 from './components/phase4';
+import Phase5 from './components/phase5';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className="title">
+        Project Shah
+      </h1>
+      <Phase1 />
+      <Phase2 />
+      <Phase3 />
+      <Phase4 />
+      <Phase5 />
+
     </div>
   );
 }
